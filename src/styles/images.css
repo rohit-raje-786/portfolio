@@ -1,46 +1,44 @@
 
 /* Add your profile image here */
 .Photo{
-    background-image: url('https://images.pexels.com/photos/3799821/pexels-photo-3799821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    
+    background-image: url('../images/rohit.jpg');
 }
 /* Projects Photo */
 .project1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+one');
-    cursor: none;    
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPofpRQ9zl3Fm92BsELi-Tc6_ITBAqByxFFc2uWghLo5uBcrNgNzwbgiOfwXkjOizbRw&usqp=CAU');
+    
+
+   
+
+    cursor: pointer;    
 }
 .project2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+two');
-    cursor: none;
+    background-image: url('https://i.ytimg.com/vi/pQr4O1OITJo/maxresdefault.jpg');
+    cursor: pointer; 
 }
 .project3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+three');
-    cursor: none;
+    background-image: url('https://www.thefanclub.co.za/sites/default/files/styles/300-wide/public/images/howto/applemusic-webapp.png?itok=uuW7L6EA');
+    cursor: pointer; 
 }
 .project4{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
-    cursor: none;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPofpRQ9zl3Fm92BsELi-Tc6_ITBAqByxFFc2uWghLo5uBcrNgNzwbgiOfwXkjOizbRw&usqp=CAU');
+    cursor: pointer; 
 }
 .project5{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
-    cursor: none;
+    background-image: url('https://static.india.com/wp-content/uploads/2020/07/covid19-vaccine-1.jpg?impolicy=Medium_Resize&w=1200&h=800');
+    cursor: pointer; 
 }
 .project6{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
-    cursor: none;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOcFuXENlXP2iH_JA5Zy6iZC6U5Jw1fwMSTw&usqp=CAU');
+    cursor: pointer; 
+}
+.project7{
+    background-image: url('https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/python-project-real-time-face-mask-detection.jpg');
+    cursor: pointer; 
 }
 /* Miscelaneous Activities photo */
-.misc1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+one');
-    cursor: none;
-}
-.misc2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+two');
-    cursor: none;
-}
-.misc3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+three');
-    cursor: none;
-}
+
 /* Contact form parallax effect image */
 .parallax{
     background-image: url('https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');

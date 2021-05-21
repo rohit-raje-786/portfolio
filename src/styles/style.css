@@ -5,3 +5,40 @@
     --primary-color:  #e96224;
     --hover-color:  #ff6600;
 }
+.profiles{
+    text-align:center;
+  
+   
+}
+.profiles >a >button
+{
+    background: #e96224;
+    padding:8px;
+    border:none;
+    border-radius:7px;
+    color:#fff;
+    font-weight: 700;
+    
+}
+
+.profiles >a >button:hover
+{
+    background: #ff6600;
+}
+.profiles>a >button:focus
+{
+    outline:none;
+}
+
+.contact-btn
+{
+    background: #e96224;
+    color:#fff;
+    
+    font-weight: 700;
+    
+}
+.contact-btn:hover
+{
+    background: #ff6600;
+}

@@ -9,7 +9,7 @@ const animation = {
 }
 // Change your display name on tha landing display
 const header = {
-    name: "a Human",
+    name: "Rohit",
 }
 const background = {
     // Options: Snow or Particle
@@ -19,7 +19,10 @@ const background = {
 // To update your image, go to './styles/images.css'
 const section2title = "About Me"
 const about = {
-    paragraph: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. Orci phasellus egestas tellus rutrum tellus pellentesque eu. Dapibus ultrices in iaculis nunc. Pretium nibh ipsum consequat nisl vel. Consequat ac felis donec et odio. Orci nulla pellentesque dignissim enim sit amet. Scelerisque eu ultrices vitae auctor eu augue ut lectus arcu."
+    paragraph: "I am a Full Stack Web Developer,currently doing my internship at Levyne as a Frontened Developer and at Arconn as a Software Developer.I also do open-source contribution during my free time. Beside that I am  a Competitive programmer at codechef with a rating of 3 ⭐,5 ⭐ on HackerRank,2 ⭐ on Leetcode.",
+    codechef:"https://www.codechef.com/users/rohitraje_123",
+    hackerRank: "https://www.hackerrank.com/rp589006",
+    leetcode: "https://leetcode.com/rohitraje/"
 }
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -49,14 +52,11 @@ const skillsBar = [
         name: "PHP",
         faClass: "fab fa-php"
     },{
-        name: "Database",
+        name: "My-Sql",
         faClass: "fas fa-database"
     },{
-        name: "AWS",
-        faClass: "fab fa-aws"
-    },{
-        name: "Docker",
-        faClass: "fab fa-docker"
+        name: "React-Js",
+        faClass: "fab fa-react"
     },{
         name: "NPM",
         faClass: "fab fa-npm"
@@ -64,14 +64,8 @@ const skillsBar = [
         name: "Heroku",
         faClass: "fas fa-h-square"
     },{
-        name: "Swift",
-        faClass: "fab fa-swift"
-    },{
-        name: "Linux",
-        faClass: "fab fa-linux"
-    },{
-        name: "Wordpress",
-        faClass: "fab fa-wordpress"
+        name: "MongoDB",
+        faClass: "fas fa-database"
     }
 ]
 // Edit your projects, its name, your skills used to make it, and the url. 
@@ -82,87 +76,74 @@ const projects = [
     {
         // Add image in './styles/images.css' in #project1
         id: "project1",
-        name: "Project 1",
+        name: "Frontened Projects",
         skills: ["HTML, CSS, JS"],
-        url: "https://github.com/kaustubhai"
+        url: "https://github.com/rohit-raje-786/MY-PROJECTS"
     },
     {
         // Add image in './styles/images.css' in #project2
         id: "project2",
-        name: "Project 2",
+        name: "Quiz App",
         skills: ["HTML, CSS, JS"],
-        url: "https://github.com/kaustubhai"
+        url: "https://github.com/rohit-raje-786/Quiz-App"
     },
     {
         // Add image in './styles/images.css' in #project3
         id: "project3",
-        name: "Project 3",
+        name: "Music App",
         skills: ["HTML, CSS, JS"],
-        url: "https://github.com/kaustubhai"
+        url: "https://github.com/rohit-raje-786/Music-App"
     },
     {
         // Add image in './styles/images.css' in #project4
         id: "project4",
-        name: "Project 4",
-        skills: ["HTML, CSS, JS"],
-        url: "https://github.com/kaustubhai"
+        name: "Levyne Faq's Page",
+        skills: ["HTML, CSS, JS, REACTJS"],
+        url: "https://github.com/rohit-raje-786/Levyne-FAQ-s-page"
     },
     {
         // Add image in './styles/images.css' in #project5
         id: "project5",
-        name: "Project 5",
-        skills: ["HTML, CSS, JS"],
-        url: "https://github.com/kaustubhai"
+        name: "Go Corona Go",
+        skills: ["HTML, CSS, EJS, REACTJS, MONGODB, NODEJS"],
+        url: "https://github.com/rohit-raje-786/gocoronago"
     },
     {
         // Add image in './styles/images.css' in #project6
         id: "project6",
-        name: "Project 6",
-        skills: ["HTML, CSS, JS"],
-        url: "https://github.com/kaustubhai"
+        name: "Recipe App",
+        skills: ["HTML, CSS, REACTJS"],
+        url: "https://github.com/rohit-raje-786/Recipe-App"
     },
+    {
+        // Add image in './styles/images.css' in #project6
+        id: "project7",
+        name: "Face-mask Detection",
+        skills: ["OpenCV, Tensorflow"],
+        url: "https://github.com/rohit-raje-786/face-mask-detection"
+    }
 ]
 // Edit your Miscellaneous Activities, its name and the url. 
 // You can omit freely anything if you dont have it
 // To Add a Activity, copy any one below and paste it after the last comma and increment the id's Miscellaneous number
-const section4Title = "Miscellaneous"
-const miscellaneous = [
-    {
-        // Add image in './styles/images.css' in #misc1
-        id: "misc1",
-        name: "Miscellaneous 1",
-        url: "https://github.com/kaustubhai"
-    },
-    {
-        // Add image in './styles/images.css' in #misc2        
-        id: "misc2",
-        name: "Miscellaneous 2",
-        url: "https://github.com/kaustubhai"
-    },
-    {
-        // Add image in './styles/images.css' in #misc3
-        id: "misc3",
-        name: "Miscellaneous 3",
-        url: "https://github.com/kaustubhai"
-    },
-]
+
 // Contact form text, and Jotforms link
 // To get your own jotform link, go to https://www.jotform.com/
 // If you hacve the link already, paste it in the contactUrl below
 const section5Title = "Get in Touch"
 const contact = {
-    pitch: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
-    copyright: "Kaustubh Mishra",
-    contactUrl: ''
+    pitch: " I’m always down for hearing about new projects, so feel free to drop me a line.",
+    copyright: "Rohit Patil",
+    ContactNo: '7021007903',
+    Gmail:'rp589006@gmail.com'
 }
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
-    github: 'https://github.com',
-    facebook: 'https://facebook.com',
-    linkedin: 'https://linkedin.com',
-    instagram: 'https://instagram.com',
-    resume: 'https://novoresume.com/'
+    github: 'https://github.com/rohit-raje-786',
+    linkedin: 'https://www.linkedin.com/in/rohit-patil-576216192',
+    
+    resume: 'https://drive.google.com/file/d/16yzB2z37Cl0VL1VLmlto-TzNWecBDyHy/view?usp=sharing'
 }
 // Dont change anything here
-export { animation, header, background, about, skillsBar, projects, miscellaneous, contact, social, section2title, section3Title, section4Title, section5Title }
+export { animation, header, background, about, skillsBar, projects,  contact, social, section2title, section3Title, section5Title }
