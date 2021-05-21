@@ -19,15 +19,15 @@ const About = () => {
             </div>
             </div>
             <hr/>
-            <div className="d-flex justify-content-evenly">
+            <div className="d-flex justify-content-center flex-sm-row flex-column">
                 <div className="profiles">
                     <a href={about.codechef}><button  >Codechef Profile<i className="fas fa-eye"></i></button></a>
                 </div>
                 <div className="profiles">
-                    <a href={about.hackerRank}><button >HackerRank Profile<i className="fas fa-eye"></i></button></a>
+                    <a href={about.hackerRank}><button >HackerRank Profile<i className="fas fa-eye "></i></button></a>
                  </div>   
                  <div className="profiles">
-                    <a href={about.leetcode}><button >Leetcode Profile<i className="fas fa-eye"></i></button></a>
+                    <a href={about.leetcode}><button >Leetcode Profile<i className="fas fa-eye "></i></button></a>
                  </div>    
                
                 
