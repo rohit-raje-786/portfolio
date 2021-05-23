@@ -143,7 +143,7 @@ const social = {
     github: 'https://github.com/rohit-raje-786',
     linkedin: 'https://www.linkedin.com/in/rohit-patil-576216192',
     
-    resume: 'https://drive.google.com/file/d/16yzB2z37Cl0VL1VLmlto-TzNWecBDyHy/view?usp=sharing'
+    resume: 'https://drive.google.com/file/d/1sVxQnV4vJiOjVEOcYc2NHuscnI4m8agu/view?usp=sharing'
 }
 // Dont change anything here
 export { animation, header, background, about, skillsBar, projects,  contact, social, section2title, section3Title, section5Title }
