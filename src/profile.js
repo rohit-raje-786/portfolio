@@ -97,9 +97,9 @@ const projects = [
     {
         // Add image in './styles/images.css' in #project4
         id: "project4",
-        name: "Levyne Faq's Page",
+        name: "Jump Game",
         skills: ["HTML, CSS, JS, REACTJS"],
-        url: "https://github.com/rohit-raje-786/Levyne-FAQ-s-page"
+        url: "https://github.com/rohit-raje-786/Jump-Game"
     },
     {
         // Add image in './styles/images.css' in #project5
