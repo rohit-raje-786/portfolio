@@ -19,7 +19,7 @@ const background = {
 // To update your image, go to './styles/images.css'
 const section2title = "About Me"
 const about = {
-    paragraph: "I am a Full Stack Web Developer,currently doing my internship at Levyne as a Frontened Developer and at Arconn as a Software Developer.I also do open-source contribution during my free time. Beside that I am  a Competitive programmer at codechef with a rating of 3 ⭐,5 ⭐ on HackerRank,2 ⭐ on Leetcode.",
+    paragraph: "I am a self taught Full Stack Web Developer.I have done an internship at Arconn at a position of software developer and currently doing my internship at Levyne as a Frontened Developer.I also do open-source contribution during my free time. Beside that I am  a Competitive programmer at codechef with a rating of 3 ⭐,5 ⭐ on HackerRank,2 ⭐ on Leetcode.",
     codechef:"https://www.codechef.com/users/rohitraje_123",
     hackerRank: "https://www.hackerrank.com/rp589006",
     leetcode: "https://leetcode.com/rohitraje/"
