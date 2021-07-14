@@ -27,11 +27,7 @@ const about = {
   leetcode: "https://leetcode.com/rohitraje/",
 };
 
-    paragraph: "I am a self taught Full Stack Web Developer.I have done an internship at Arconn at a position of software developer and currently doing my internship at Levyne as a Frontened Developer.I also do open-source contribution during my free time. Beside that I am  a Competitive programmer at codechef with a rating of 3 ⭐,5 ⭐ on HackerRank,2 ⭐ on Leetcode.",
-    codechef:"https://www.codechef.com/users/rohitraje_123",
-    hackerRank: "https://www.hackerrank.com/rp589006",
-    leetcode: "https://leetcode.com/rohitraje/"
-}
+   
 
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
