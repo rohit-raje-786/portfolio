@@ -19,20 +19,20 @@ const background = {
 // To update your image, go to './styles/images.css'
 const section2title = "About Me";
 const about = {
-<<<<<<< HEAD
+
   paragraph:
     "I am a Full Stack Web Developer,currently doing my internship at Levyne as a Frontened Developer and at Arconn as a Software Developer.I also do open-source contribution during my free time. Beside that I am  a Competitive programmer at codechef with a rating of 3 ⭐,5 ⭐ on HackerRank,2 ⭐ on Leetcode.",
   codechef: "https://www.codechef.com/users/rohitraje_123",
   hackerRank: "https://www.hackerrank.com/rp589006",
   leetcode: "https://leetcode.com/rohitraje/",
 };
-=======
+
     paragraph: "I am a self taught Full Stack Web Developer.I have done an internship at Arconn at a position of software developer and currently doing my internship at Levyne as a Frontened Developer.I also do open-source contribution during my free time. Beside that I am  a Competitive programmer at codechef with a rating of 3 ⭐,5 ⭐ on HackerRank,2 ⭐ on Leetcode.",
     codechef:"https://www.codechef.com/users/rohitraje_123",
     hackerRank: "https://www.hackerrank.com/rp589006",
     leetcode: "https://leetcode.com/rohitraje/"
 }
->>>>>>> 4fda2eead585d6eb03dba8fc99149c8e7850aa5f
+
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
 const skillsBar = [
@@ -94,7 +94,7 @@ const skillsBar = [
 // To Add a Project, copy any one below and paste it after the last comma and increment the id's project number
 const section3Title = "Past Projects";
 const projects = [
-<<<<<<< HEAD
+
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
@@ -146,7 +146,7 @@ const projects = [
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
-=======
+
     {
         // Add image in './styles/images.css' in #project1
         id: "project1",
@@ -198,7 +198,7 @@ const projects = [
     }
 ]
 // Edit your Miscellaneous Activities, its name and the url. 
->>>>>>> 4fda2eead585d6eb03dba8fc99149c8e7850aa5f
+
 // You can omit freely anything if you dont have it
 // To Add a Activity, copy any one below and paste it after the last comma and increment the id's Miscellaneous number
 
