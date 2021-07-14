@@ -145,66 +145,7 @@ const projects = [
     url: "https://github.com/rohit-raje-786/face-mask-detection",
   },
 ];
-// Edit your Miscellaneous Activities, its name and the url.
 
-    {
-        // Add image in './styles/images.css' in #project1
-        id: "project1",
-        name: "Frontened Projects",
-        skills: ["HTML, CSS, JS"],
-        url: "https://github.com/rohit-raje-786/MY-PROJECTS"
-    },
-    {
-        // Add image in './styles/images.css' in #project2
-        id: "project2",
-        name: "Quiz App",
-        skills: ["HTML, CSS, JS"],
-        url: "https://github.com/rohit-raje-786/Quiz-App"
-    },
-    {
-        // Add image in './styles/images.css' in #project3
-        id: "project3",
-        name: "Music App",
-        skills: ["HTML, CSS, JS"],
-        url: "https://github.com/rohit-raje-786/Music-App"
-    },
-    {
-        // Add image in './styles/images.css' in #project4
-        id: "project4",
-        name: "Jump Game",
-        skills: ["HTML, CSS, JS"],
-        url: "https://github.com/rohit-raje-786/Jump-Game"
-    },
-    {
-        // Add image in './styles/images.css' in #project5
-        id: "project5",
-        name: "Go Corona Go",
-        skills: ["HTML, CSS, EJS, REACTJS, MONGODB, NODEJS"],
-        url: "https://github.com/rohit-raje-786/gocoronago"
-    },
-    {
-        // Add image in './styles/images.css' in #project6
-        id: "project6",
-        name: "Recipe App",
-        skills: ["HTML, CSS, REACTJS"],
-        url: "https://github.com/rohit-raje-786/Recipe-App"
-    },
-    {
-        // Add image in './styles/images.css' in #project6
-        id: "project7",
-        name: "Face-mask Detection",
-        skills: ["OpenCV, Tensorflow"],
-        url: "https://github.com/rohit-raje-786/face-mask-detection"
-    }
-]
-// Edit your Miscellaneous Activities, its name and the url. 
-
-// You can omit freely anything if you dont have it
-// To Add a Activity, copy any one below and paste it after the last comma and increment the id's Miscellaneous number
-
-// Contact form text, and Jotforms link
-// To get your own jotform link, go to https://www.jotform.com/
-// If you hacve the link already, paste it in the contactUrl below
 
 const section4Title = "My Work";
 const miscellaneous = [
