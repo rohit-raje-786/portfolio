@@ -174,7 +174,7 @@ const social = {
   linkedin: "https://www.linkedin.com/in/rohit-patil-576216192",
 
   resume:
-    "https://drive.google.com/file/d/160iu5j3iLmaVM6dxEBxP0WrsiqaUoFpL/view?usp=sharing",
+    "https://drive.google.com/file/d/1lL9Svqy6cvt1fJ521_KXpoqPs2E96b8K/view?usp=sharing",
 };
 // Dont change anything here
 export {
