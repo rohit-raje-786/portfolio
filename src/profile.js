@@ -149,7 +149,7 @@ const miscellaneous = [
     // Add image in './styles/images.css' in #misc1
     id: "work1",
     name: "Ceedmy.com",
-    url: "https://www.ceedmy.com/",
+    url: "https://ceedmyacademy.herokuapp.com/",
   },
   {
     // Add image in './styles/images.css' in #misc2
