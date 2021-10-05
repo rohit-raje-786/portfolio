@@ -41,6 +41,10 @@
   background-image: url("https://store-images.s-microsoft.com/image/apps.40339.13824105887454405.4132b91c-7a9c-494e-b21d-fcef1f82a553.1de0ffb1-b186-4aa2-9fe3-82e31d07b5bf");
   cursor: pointer;
 }
+.work3 {
+  background-image: url("https://react-app-rohit.netlify.app/");
+  cursor: pointer;
+}
 /* Contact form parallax effect image */
 .parallax {
   background-image: url("https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
