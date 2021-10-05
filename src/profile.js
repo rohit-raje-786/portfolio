@@ -156,6 +156,12 @@ const miscellaneous = [
     id: "work2",
     name: "WhiteBoard",
     url: "https://rohit-patil-whiteboard.netlify.app/",
+  },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "work3",
+    name: "React App Task",
+    url: "https://react-app-rohit.netlify.app/",
   }
 ];
 
