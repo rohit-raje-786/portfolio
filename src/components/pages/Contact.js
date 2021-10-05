@@ -41,6 +41,8 @@ const Contact = () => {
                     {social.github && <a title="Visit Github profile" rel="noopener noreferrer" target="_blank" href={social.github}><i className="fab fa-github"></i></a>}
                     {social.twitter && <a title="Visit Twitter profile" rel="noopener noreferrer" target="_blank" href={social.twitter}><i className="fab fa-twitter"></i></a>}
                         <br/>
+                        <br/>
+                        <br/>
                 </div>
                     {social.resume && <a title="Download Resume" href={social.resume} download><i className="fas fa-download"></i></a>}
                 </div>
