@@ -178,6 +178,7 @@ const contact = {
 const social = {
   github: "https://github.com/rohit-raje-786",
   linkedin: "https://www.linkedin.com/in/rohit-patil-576216192",
+  twitter:"https://twitter.com/rohitraje123",
 
   resume:
     "https://docs.google.com/document/d/1Df5AghehdbS-HhrRbLWGtHb8FNrnROi3P2p6O0Y07Hg/edit?usp=sharing",
