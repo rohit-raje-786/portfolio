@@ -21,7 +21,7 @@ const section2title = "About Me";
 const about = {
 
   paragraph:
-    "I am a Self taught Full Stack Web Developer,currently pursuing my B-TECH from KJ Somaiya College Of Engineering.In the past I worked for Arconn as a software developer and Levyne as a Frontend developer. Beside that I am  a Competitive programmer as well,I actively participate in the coding contest hosted on codechef and codeforces.",
+    "I am a Self taught Full Stack Web Developer,currently pursuing my B-TECH from KJ Somaiya College Of Engineering.In the past I worked for Arconn as a software developer and Currently I am working as a Frontend developer at MaterailDepot.Beside that I am  a Competitive programmer as well,I actively participate in the coding contest hosted on codechef and codeforces.",
   codechef: "https://www.codechef.com/users/rohitraje_123",
   hackerRank: "https://www.hackerrank.com/rp589006",
   leetcode: "https://leetcode.com/rohitraje/",
