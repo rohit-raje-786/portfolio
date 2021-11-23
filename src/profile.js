@@ -19,15 +19,12 @@ const background = {
 // To update your image, go to './styles/images.css'
 const section2title = "About Me";
 const about = {
-
   paragraph:
     "I am a Self taught Full Stack Web Developer,currently pursuing my B-TECH from KJ Somaiya College Of Engineering.In the past I worked for Arconn as a software developer and Currently I am working as a Frontend developer at MaterailDepot.Beside that I am  a Competitive programmer as well,I actively participate in the coding contest hosted on codechef and codeforces.",
   codechef: "https://www.codechef.com/users/rohitraje_123",
   hackerRank: "https://www.hackerrank.com/rp589006",
   leetcode: "https://leetcode.com/rohitraje/",
 };
-
-   
 
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -90,7 +87,6 @@ const skillsBar = [
 // To Add a Project, copy any one below and paste it after the last comma and increment the id's project number
 const section3Title = "Past Projects";
 const projects = [
-
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
@@ -142,7 +138,6 @@ const projects = [
   },
 ];
 
-
 const section4Title = "My Work";
 const miscellaneous = [
   {
@@ -162,7 +157,13 @@ const miscellaneous = [
     id: "work3",
     name: "React App Task",
     url: "https://react-app-rohit.netlify.app/",
-  }
+  },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "work4",
+    name: "Meeting-Scheduler App(with google-auth)",
+    url: "https://appointment-scheduler-frontend.herokuapp.com/",
+  },
 ];
 
 const section5Title = "Get in Touch";
@@ -178,7 +179,7 @@ const contact = {
 const social = {
   github: "https://github.com/rohit-raje-786",
   linkedin: "https://www.linkedin.com/in/rohit-patil-576216192",
-  twitter:"https://twitter.com/rohitraje123",
+  twitter: "https://twitter.com/rohitraje123",
 
   resume:
     "https://docs.google.com/document/d/1Df5AghehdbS-HhrRbLWGtHb8FNrnROi3P2p6O0Y07Hg/edit?usp=sharing",

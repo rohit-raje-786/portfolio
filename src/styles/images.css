@@ -45,6 +45,10 @@
   background-image: url("https://reactjs.org/logo-og.png");
   cursor: pointer;
 }
+.work4 {
+  background-image: url("https://schedule.cc/images/blog/meeting-scheduler.webp");
+  cursor: pointer;
+}
 /* Contact form parallax effect image */
 .parallax {
   background-image: url("https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
