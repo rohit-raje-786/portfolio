@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "I am a Self taught Full Stack Web Developer,currently pursuing my B-TECH from KJ Somaiya College Of Engineering.In the past I worked for Arconn as a software developer and Currently I am working as a Frontend developer at MaterailDepot.Beside that I am  a Competitive programmer as well,I actively participate in the coding contest hosted on codechef and codeforces.",
+    "I am a Self taught Full Stack Web Developer,currently pursuing my B-TECH from KJ Somaiya College Of Engineering.In the past I intern at Arconn as a software developer and Currently I am interning as a Frontend developer at MaterailDepot.During my free time I like to solve problems on Leetcode,GFG which helps me to brush up my coding skills.I am a keen learner,and always like to explore new technology and stack.",
   codechef: "https://www.codechef.com/users/rohitraje_123",
   hackerRank: "https://www.hackerrank.com/rp589006",
   leetcode: "https://leetcode.com/rohitraje/",
