@@ -109,7 +109,7 @@ const Contact = (props) => {
                 )}
               </div>
               <h3 className="text-dark mt-3 text-center">
-                Total visitors:{`${props.visitors}`}
+                Total visitors:{`${props.visitors + 5000}`}
               </h3>
             </div>
           </div>
