@@ -1,45 +1,91 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
 :root {
-    --primary-color:  #e96224;
-    --hover-color:  #ff6600;
+  --primary-color: #e96224;
+  --hover-color: #ff6600;
 }
-.profiles{
-    text-align:center;
-  
-   
+.profiles {
+  text-align: center;
 }
-.profiles >a >button
-{
-    background: #e96224;
-    padding:8px;
-    border:none;
-    border-radius:7px;
-    color:#fff;
-    font-weight: 700;
-    margin: 5px;
-    
+.profiles > a > button {
+  background: #e96224;
+  padding: 8px;
+  border: none;
+  border-radius: 7px;
+  color: #fff;
+  font-weight: 700;
+  margin: 5px;
 }
 
-.profiles >a >button:hover
-{
-    background: #ff6600;
+.profiles > a > button:hover {
+  background: #ff6600;
 }
-.profiles>a >button:focus
-{
-    outline:none;
+.profiles > a > button:focus {
+  outline: none;
 }
 
-.contact-btn
-{
-    background: #e96224;
-    color:#fff;
-    
-    font-weight: 700;
-    
+.contact-btn {
+  background: #e96224;
+  color: #fff;
+
+  font-weight: 700;
 }
-.contact-btn:hover
-{
-    background: #ff6600;
+.contact-btn:hover {
+  background: #ff6600;
+}
+/* game styling start */
+
+#game {
+  /* width: 500px; */
+  height: 200px;
+  border: 1px solid black;
+  margin: auto;
+}
+#char {
+  width: 20px;
+  height: 50px;
+  position: relative;
+  top: 150px;
+}
+.animate {
+  animation: jump 500ms infinite;
+}
+@keyframes jump {
+  0% {
+    top: 150px;
+  }
+  30% {
+    top: 100px;
+  }
+  70% {
+    top: 100px;
+  }
+  100% {
+    top: 150px;
+  }
+}
+#block {
+  width: 40px;
+  height: 20px;
+  background-color: brown;
+  position: relative;
+  top: 130px;
+  left: 480px;
+  animation: block 1s infinite;
+}
+
+@keyframes block {
+  0% {
+    left: 480px;
+  }
+  100% {
+    left: -40px;
+  }
+}
+#btn {
+  width: 200px;
+  height: 50px;
+  margin-top: 10px;
+  margin-left: 45%;
 }

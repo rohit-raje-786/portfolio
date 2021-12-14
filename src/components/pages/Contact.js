@@ -120,11 +120,11 @@ const Contact = (props) => {
             <br />
             <i className="fa fa-google"></i> : {contact.Gmail}
           </div>
+          <h3 id="copy" className="text-center mt-5">
+            Made with ❤️ by Rohit Patil
+          </h3>
         </div>
       </div>
-      <h3 id="" className="text-dark">
-        Made with ❤️ by Rohit Patil
-      </h3>
     </div>
   );
 };

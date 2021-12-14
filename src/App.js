@@ -4,6 +4,7 @@ import Header from "./components/pages/Header";
 import About from "./components/pages/About";
 import Works from "./components/pages/Works";
 import Contact from "./components/pages/Contact";
+import Game from "./components/pages/Game";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { animation } from "./profile";
@@ -29,6 +30,19 @@ function App() {
       <Particles />
       <About />
       <Works />
+      <Game />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       <Contact visitors={visit} />
     </div>
   );
