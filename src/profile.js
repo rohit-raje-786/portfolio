@@ -143,6 +143,13 @@ const projects = [
     skills: ["ReactJs,MaterialUI,Antd"],
     url: "https://github.com/rohit-raje-786/Google-Forms-Clone",
   },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project9",
+    name: "Blockchain App",
+    skills: ["ReactJs,Solidity,Bootstrap,Ethereum"],
+    url: "https://github.com/rohit-raje-786/Blockchain",
+  },
 ];
 
 const section4Title = "My Work";
