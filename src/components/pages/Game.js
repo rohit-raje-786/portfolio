@@ -44,7 +44,7 @@ function Game() {
     <div className="mb-5 container text-center">
       <div className="col-12 col-sm-6 half">
         <h3 className="text-center">Got Bored Play Game 🎮</h3>
-        <p className="text-center">
+        <p className="text-center text-dark">
           Points:<span id="points"></span>
         </p>
         <div id="game">
