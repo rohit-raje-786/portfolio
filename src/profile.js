@@ -136,6 +136,13 @@ const projects = [
     skills: ["OpenCV, Tensorflow"],
     url: "https://github.com/rohit-raje-786/face-mask-detection",
   },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project8",
+    name: "Google Forms Clone",
+    skills: ["ReactJs,MaterialUI,Antd"],
+    url: "https://github.com/rohit-raje-786/Google-Forms-Clone",
+  },
 ];
 
 const section4Title = "My Work";
