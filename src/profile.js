@@ -150,6 +150,13 @@ const projects = [
     skills: ["ReactJs,Solidity,Bootstrap,Ethereum"],
     url: "https://github.com/rohit-raje-786/Blockchain",
   },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project10",
+    name: "ERC20-Based Token",
+    skills: ["ReactJs,Solidity,Ethereum,Ganache"],
+    url: "https://github.com/rohit-raje-786/ERC20-RPToken",
+  },
 ];
 
 const section4Title = "My Work";
