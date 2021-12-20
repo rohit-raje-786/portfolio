@@ -157,6 +157,13 @@ const projects = [
     skills: ["ReactJs,Solidity,Ethereum,Ganache"],
     url: "https://github.com/rohit-raje-786/ERC20-RPToken",
   },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project11",
+    name: "DropBox Using Blockchain",
+    skills: ["ReactJs,Solidity,Web3,Ethereum,Hardhat"],
+    url: "https://github.com/rohit-raje-786/DropBox",
+  },
 ];
 
 const section4Title = "My Work";
