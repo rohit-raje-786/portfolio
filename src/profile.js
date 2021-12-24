@@ -164,6 +164,13 @@ const projects = [
     skills: ["ReactJs,Solidity,Web3,Ethereum,Hardhat"],
     url: "https://github.com/rohit-raje-786/DropBox",
   },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project12",
+    name: "Lottery Game Using Blockchain",
+    skills: ["ReactJs,Material-UI,Solidity,Web3.js,Ethereum"],
+    url: "https://github.com/rohit-raje-786/Lottery-Game",
+  },
 ];
 
 const section4Title = "My Work";
