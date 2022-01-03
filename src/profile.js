@@ -206,7 +206,6 @@ const contact = {
   pitch:
     " I’m always down for hearing about new projects, so feel free to drop me a line.",
   copyright: "Rohit Patil",
-  ContactNo: "7021007903",
   Gmail: "rp589006@gmail.com",
 };
 // Paste your respective social media links. You can omit any if you dont have it

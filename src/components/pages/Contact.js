@@ -116,14 +116,12 @@ const Contact = (props) => {
         </div>
         <div className="inline-block">
           <div className="align-self-baseline">
-            <i className="fa fa-phone"></i>: {contact.ContactNo}
-            <br />
             <i className="fa fa-google"></i> : {contact.Gmail}
           </div>
         </div>
       </div>
       <p id="copy" className="text-center">
-        Made with ❤️ by Rohit Patil
+        Made with ❤️ by Rohit
       </p>
     </div>
   );
