@@ -171,6 +171,13 @@ const projects = [
     skills: ["ReactJs,Material-UI,Solidity,Web3.js,Ethereum"],
     url: "https://github.com/rohit-raje-786/Lottery-Game",
   },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project13",
+    name: "NFT Minter",
+    skills: ["ReactJs,Solidity,Hardhat,Ethereum"],
+    url: "https://github.com/rohit-raje-786/NFT-MINTER",
+  },
 ];
 
 const section4Title = "My Work";
