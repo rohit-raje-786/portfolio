@@ -120,9 +120,6 @@ const Contact = (props) => {
           </div>
         </div>
       </div>
-      <p id="copy" className="text-center">
-        Made with ❤️ by Rohit
-      </p>
     </div>
   );
 };
