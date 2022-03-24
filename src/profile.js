@@ -223,7 +223,7 @@ const social = {
   twitter: "https://twitter.com/rohitraje123",
 
   resume:
-    "https://docs.google.com/document/d/1Df5AghehdbS-HhrRbLWGtHb8FNrnROi3P2p6O0Y07Hg/edit?usp=sharing",
+    "https://drive.google.com/file/d/1553imyu7vtHpgksoj3WtPwbOfr3yfGuW/view?usp=sharing",
 };
 // Dont change anything here
 export {
