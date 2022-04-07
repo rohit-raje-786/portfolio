@@ -130,28 +130,18 @@ const projects = [
     url: "https://github.com/rohit-raje-786/Recipe-App",
   },
   {
-    // Add image in './styles/images.css' in #project6
-    id: "project7",
-    name: "Face-mask Detection",
-    skills: ["OpenCV, Tensorflow"],
-    url: "https://github.com/rohit-raje-786/face-mask-detection",
-  },
-  {
-    // Add image in './styles/images.css' in #project6
     id: "project8",
     name: "Google Forms Clone",
     skills: ["ReactJs,MaterialUI,Antd"],
     url: "https://github.com/rohit-raje-786/Google-Forms-Clone",
   },
   {
-    // Add image in './styles/images.css' in #project6
     id: "project9",
     name: "Blockchain App",
     skills: ["ReactJs,Solidity,Bootstrap,Ethereum"],
     url: "https://github.com/rohit-raje-786/Blockchain",
   },
   {
-    // Add image in './styles/images.css' in #project6
     id: "project10",
     name: "ERC20-Based Token",
     skills: ["ReactJs,Solidity,Ethereum,Ganache"],
