@@ -1,14 +1,43 @@
-import React from 'react'
+import React from "react";
 
 const HeaderButton = () => {
+  return (
+    <>
+      <div className="mx-auto">
+        <center
+          style={{
+            color: "#383838",
+            maxWidth: "900px",
+            width: "80%",
 
-    return (
-        <>
-            <div className="mx-auto">
-                <a href="#about"><button className="see">Checkout Portfolio<i className="fas fa-eye"></i></button></a>
-            </div>
-        </>
-    )
-}
+            position: "absolute",
+            top: "60%",
+            left: "20%",
+          }}
+        >
+          <blockquote>
+            <i>
+              <br />
+              <br />
+              <br />
+              <br />
+              <font size="3">“</font> Do your duty without focusing on results.
+              Thinking about result of action builds expections and expectations
+              only yield sorrow and sadness.<font size="3">”</font>
+            </i>
+          </blockquote>
 
-export default HeaderButton
+          <cite style={{ color: "#383838" }}>~ Sri Krishna, Bhagvad Gita</cite>
+          <br />
+        </center>
+        <a href="#about">
+          <button className="see" style={{ marginTop: "10%" }}>
+            Checkout Portfolio<i className="fas fa-eye"></i>
+          </button>
+        </a>
+      </div>
+    </>
+  );
+};
+
+export default HeaderButton;
