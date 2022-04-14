@@ -8,11 +8,11 @@ const HeaderButton = () => {
           style={{
             color: "#383838",
             maxWidth: "900px",
-            width: "80%",
+            width: "70%",
 
             position: "absolute",
             top: "60%",
-            left: "20%",
+            left: "18%",
           }}
         >
           <blockquote>
