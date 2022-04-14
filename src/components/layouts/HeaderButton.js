@@ -19,8 +19,6 @@ const HeaderButton = () => {
             <i>
               <br />
               <br />
-              <br />
-              <br />
               <font size="3">“</font> Do your duty without focusing on results.
               Thinking about result of action builds expections and expectations
               only yield sorrow and sadness.<font size="3">”</font>
