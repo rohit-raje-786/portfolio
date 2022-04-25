@@ -174,7 +174,7 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project6
     id: "project14",
-    name: "Fake Product Authentication Using Blockchain",
+    name: "Fake Product Identification Using Blockchain",
     skills: ["ReactJs,Solidity,Hardhat,Ethereum"],
     url: "https://github.com/rohit-raje-786/Fake-product-identification",
   },
