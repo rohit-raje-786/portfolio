@@ -130,18 +130,21 @@ const projects = [
     url: "https://github.com/rohit-raje-786/Recipe-App",
   },
   {
+    // Add image in './styles/images.css' in #project6
     id: "project8",
     name: "Google Forms Clone",
     skills: ["ReactJs,MaterialUI,Antd"],
     url: "https://github.com/rohit-raje-786/Google-Forms-Clone",
   },
   {
+    // Add image in './styles/images.css' in #project6
     id: "project9",
     name: "Blockchain App",
     skills: ["ReactJs,Solidity,Bootstrap,Ethereum"],
     url: "https://github.com/rohit-raje-786/Blockchain",
   },
   {
+    // Add image in './styles/images.css' in #project6
     id: "project10",
     name: "ERC20-Based Token",
     skills: ["ReactJs,Solidity,Ethereum,Ganache"],
@@ -158,7 +161,7 @@ const projects = [
     // Add image in './styles/images.css' in #project6
     id: "project12",
     name: "Lottery Game Using Blockchain",
-    skills: ["ReactJs,Material-UI,Solidity,Web3.js,Ethereum"],
+    skills: ["ReactJs,Material-UI,Solidity,Ethereum"],
     url: "https://github.com/rohit-raje-786/Lottery-Game",
   },
   {
@@ -167,6 +170,13 @@ const projects = [
     name: "NFT Minter",
     skills: ["ReactJs,Solidity,Hardhat,Ethereum"],
     url: "https://github.com/rohit-raje-786/NFT-MINTER",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project14",
+    name: "Fake Product Authentication Using Blockchain",
+    skills: ["ReactJs,Solidity,Hardhat,Ethereum"],
+    url: "https://github.com/rohit-raje-786/Fake-product-identification",
   },
 ];
 
