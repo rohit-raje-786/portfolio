@@ -24,21 +24,28 @@ const About = () => {
         <div className="profiles">
           <a href={about.codechef}>
             <button>
-              Codechef Profile<i className="fas fa-eye"></i>
+              Codechef <i className="fas fa-eye"></i>
             </button>
           </a>
         </div>
         <div className="profiles">
           <a href={about.hackerRank}>
             <button>
-              HackerRank Profile<i className="fas fa-eye "></i>
+              HackerRank <i className="fas fa-eye "></i>
             </button>
           </a>
         </div>
         <div className="profiles">
           <a href={about.leetcode}>
             <button>
-              Leetcode Profile<i className="fas fa-eye "></i>
+              Leetcode <i className="fas fa-eye "></i>
+            </button>
+          </a>
+        </div>
+        <div className="profiles">
+          <a href={about.GFG}>
+            <button>
+              GFG <i className="fas fa-eye "></i>
             </button>
           </a>
         </div>

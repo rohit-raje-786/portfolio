@@ -20,10 +20,11 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "I am a Self taught Full Stack Web Developer,currently pursuing my B-TECH from KJ Somaiya College Of Engineering.In the past I intern at Arconn as a software developer.Currently I am focusing on DSA.During my free time I like to solve problems on Leetcode,GFG which helps me to brush up my coding skills.I am a keen learner,and always like to explore new technology and stack.",
+    "I am a Self taught Full Stack Web Developer,currently pursuing my B-TECH from KJ Somaiya College Of Engineering.In the past I Intern at Arconn as a software developer.Currently I am Interning at Xoog as an App Developer and focusing on DSA.During my free time I like to solve problems on Leetcode,GFG which helps me to brush up my coding skills.I am a keen learner and always like to explore new technology and stack.",
   codechef: "https://www.codechef.com/users/rohitraje_123",
   hackerRank: "https://www.hackerrank.com/rp589006",
   leetcode: "https://leetcode.com/rohitraje/",
+  GFG: "https://auth.geeksforgeeks.org/user/RohitPatil6/practice",
 };
 
 // Edit your skill and the percentage you know about it
