@@ -25,6 +25,7 @@ const about = {
   hackerRank: "https://www.hackerrank.com/rp589006",
   leetcode: "https://leetcode.com/rohitraje/",
   GFG: "https://auth.geeksforgeeks.org/user/RohitPatil6/practice",
+  codeforces: "https://codeforces.com/profile/raje_123",
 };
 
 // Edit your skill and the percentage you know about it
