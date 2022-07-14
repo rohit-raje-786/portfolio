@@ -6,11 +6,11 @@ const About = () => {
   return (
     <div id="about" className="effect2">
       <div data-aos="zoom-in-up" data-aos-once="true" className="row">
-        <div
+        {/* <div
           className="col-12 d-none d-md-block offset-md-1 col-md-4 Photo"
           id="not"
-        ></div>
-        <div className="col-12 offset-md-1 col-md-6 about">
+        ></div> */}
+        <div className="col-md-12 offset-md-1  about">
           <div className="About-title-box">
             <h1 id="About" className="red-line">
               {section2title}
@@ -46,6 +46,13 @@ const About = () => {
           <a href={about.GFG}>
             <button>
               GFG <i className="fas fa-eye "></i>
+            </button>
+          </a>
+        </div>
+        <div className="profiles">
+          <a href={about.codeforces}>
+            <button>
+              Codeforces <i className="fas fa-eye "></i>
             </button>
           </a>
         </div>
