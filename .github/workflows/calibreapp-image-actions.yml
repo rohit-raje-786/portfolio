@@ -1,5 +1,5 @@
 name: Image Actions
-  uses: calibreapp/image-actions@1.1.0
+uses: calibreapp/image-actions@1.1.0
 
 name: Compress Images
 on:
