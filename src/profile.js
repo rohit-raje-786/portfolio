@@ -225,7 +225,7 @@ const social = {
   twitter: "https://twitter.com/rohitraje123",
 
   resume:
-    "https://drive.google.com/file/d/13HJuKL-dJCXJjNWM_au0ianiirXoY62y/view?usp=sharing",
+    "https://drive.google.com/file/d/19NaFf8XZmfxsM0o6pM2cUCtk-wyBlP-F/view?usp=sharing",
 };
 // Dont change anything here
 export {
