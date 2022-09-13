@@ -214,6 +214,7 @@ button:focus {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-top: 150px;
 }
 .git-form {
   width: 1160px;
