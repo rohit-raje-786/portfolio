@@ -20,7 +20,6 @@ function App() {
 		});
 		// eslint-disable-next-line
 		countapi.visits('global').then(result => {
-			console.log(result);
 			setVisit(result.value);
 		});
 	}, []);
