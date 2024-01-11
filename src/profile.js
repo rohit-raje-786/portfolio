@@ -223,7 +223,7 @@ const social = {
 	linkedin: 'https://www.linkedin.com/in/rohit-patil-576216192',
 	twitter: 'https://twitter.com/rohitpatil_123',
 
-	resume: 'https://drive.google.com/file/d/10vO3Ewa0yl4ERaSWf3pa9O_L9CqVMzBa/view?usp=sharing'
+	resume: 'https://drive.google.com/file/d/1Dgtm_2XKL0FKhmBXnJ_akwytojRyOa16/view?usp=sharing'
 };
 // Dont change anything here
 export {
